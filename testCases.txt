@@ -1,0 +1,21 @@
+cc amarillo repetir 4[md 9 md 9 mr]
+ct
+repetir 6[ma 9 ma 9 mr]
+ct
+mi md 9 mr md 2 mr md 7 mi md 2 mr md 2 mr md 4
+ct
+repetir 6[md 9 md 9 mr]
+ct
+lr md 9 md 9 mr br md 9 md 9
+ct
+mi md 9 md 3 mi md 3 mr md 3 mr md 9 mr md 3 mr md 3 mi md 9 md 3 mr md 3
+ct
+repetir md a
+ct
+repetir .
+ct
+repetir a[]
+ct
+a
+ct
+0
